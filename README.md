@@ -148,7 +148,7 @@ class Config(Config):
 
 * search for known issues, [here](https://t.me/c/1434259219/118).
 
-* add issues / feature requests, [here](https://github.com/SpEcHiDe/PublicLeech/issues/new).
+* add issues / feature requests, [here](https://github.com/Rakesh999456/PublicLeech/issues/new).
 
 
 ## Credits, and Thanks to
